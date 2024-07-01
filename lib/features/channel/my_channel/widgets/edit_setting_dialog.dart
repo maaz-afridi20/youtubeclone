@@ -38,7 +38,9 @@ class _SettingsDialogState extends State<SettingsDialog> {
             },
             child: const Text("CANCEL", style: TextStyle(color: Colors.black))),
         TextButton(
-            onPressed: () {},
+            onPressed: () {
+              widget.onSave!(controller.text);
+            },
             child: const Text(
               "SAVE",
               style: TextStyle(color: Colors.black),
