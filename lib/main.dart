@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
                     ConnectionState.waiting) {
                   return const Loader();
                 }
-                return const MyChannelScreen();
+                return const MyChannelSettings();
               });
         },
       ),

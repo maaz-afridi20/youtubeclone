@@ -20,6 +20,7 @@ export 'package:youtube_clone/features/auth/providers/user_provider.dart';
 export 'package:youtube_clone/features/auth/repository/auth_service.dart';
 export 'package:youtube_clone/features/auth/repository/user_data_service.dart';
 export 'package:youtube_clone/features/channel/my_channel/pages/my_channel_screen.dart';
+export 'package:youtube_clone/features/channel/my_channel/pages/my_channel_settings.dart';
 export 'package:youtube_clone/features/channel/my_channel/parts/tabbar.dart';
 export 'package:youtube_clone/features/channel/my_channel/parts/tabbar_views.dart';
 export 'package:youtube_clone/features/channel/my_channel/parts/top_header.dart';
