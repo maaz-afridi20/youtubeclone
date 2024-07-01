@@ -24,5 +24,7 @@ export 'package:youtube_clone/features/channel/my_channel/pages/my_channel_setti
 export 'package:youtube_clone/features/channel/my_channel/parts/tabbar.dart';
 export 'package:youtube_clone/features/channel/my_channel/parts/tabbar_views.dart';
 export 'package:youtube_clone/features/channel/my_channel/parts/top_header.dart';
+export 'package:youtube_clone/features/channel/my_channel/repository/edit_fields.dart';
+export 'package:youtube_clone/features/channel/my_channel/widgets/setting_field_item.dart';
 export 'package:youtube_clone/features/content/Long_video/widgets/video_externel_buttons.dart';
 export 'package:youtube_clone/home_page.dart';
